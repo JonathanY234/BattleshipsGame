@@ -1,6 +1,6 @@
 # Battleships
 
-Play Battleships aginst computer and give me high marks for this project.
+Play Battleships aginst computer
 
 ## Introduction
 
